@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">program4</string>
+    <string name="wallpaper_changing_app">Wallpaper Changing App</string>
+    <string name="change_wallpaper_now">Change Wallpaper now</string>
+</resources>
